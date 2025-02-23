@@ -1,2 +1,2 @@
-# This repository contains diff file about the bioinfo projects.
-# This repository contains notes and projectes about the bioinfo
+# This repository contains different projects about bioinfo RNA_SEQ Analysis.
+
